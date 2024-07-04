@@ -1,3 +1,3 @@
-                                                                                      ## POPUP PAGE USING HTML, CSS, JAVASCRIPT##
+                                                         ## POPUP PAGE USING HTML, CSS, JAVASCRIPT##
 
-                                                                                           https://popup-coral.vercel.app/
+                                                             https://popup-coral.vercel.app/
